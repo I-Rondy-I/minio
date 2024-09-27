@@ -24,3 +24,4 @@ services:
       /usr/bin/mc alias set myminio http://minio:9000 minioadmin >
       /usr/bin/mc mb myminio/mybucket;
       /usr/bi
+      "
